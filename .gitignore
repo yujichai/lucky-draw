@@ -19,5 +19,9 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 config.js
+=======
+dist.zip
+>>>>>>> origin/gh-pages
 test.js
